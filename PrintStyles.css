@@ -1,0 +1,8 @@
+body{
+    column-width: 17;
+  background-color: #DCE0D9;
+  font-family: "Century Gothic", sans-serif;
+  size: 8, 12,
+  landscape;
+}
+.header, .footer, .aside{ display: none;}
